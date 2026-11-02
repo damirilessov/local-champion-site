@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex">
+    <title>Страница не найдена — Local Champion</title>
+    <meta name="theme-color" content="#f4f5f1">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css">
+    <script src="/script.js" defer></script>
+  </head>
+  <body data-page="not-found">
+    <header class="site-header">
+      <div class="shell header-inner header-inner-simple">
+        <a class="wordmark" href="/" aria-label="Local Champion — главная">
+          <span class="wordmark-mark" aria-hidden="true">LC</span>
+          <span>Local Champion</span>
+        </a>
+        <div class="language-switcher" role="group" aria-label="Выбор языка" data-i18n-aria-label="a11y.language">
+          <button type="button" data-lang="ru" aria-pressed="true">RU</button>
+          <span aria-hidden="true">/</span>
+          <button type="button" data-lang="en" aria-pressed="false">EN</button>
+        </div>
+      </div>
+    </header>
+    <main class="not-found">
+      <div class="shell not-found-inner">
+        <div class="not-found-code" aria-hidden="true">404</div>
+        <div class="not-found-copy">
+          <p class="eyebrow"><span class="eyebrow-dot" aria-hidden="true"></span><span>Local Champion</span></p>
+          <h1 data-i18n="notFound.title">Страница не найдена</h1>
+          <p data-i18n="notFound.text">Возможно, адрес изменился или в ссылке есть ошибка.</p>
+          <a class="button button-primary" href="/">
+            <span data-i18n="notFound.button">На главную</span>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 12H5M10 7l-5 5 5 5"/></svg>
+          </a>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
