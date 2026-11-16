@@ -1,0 +1,69 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1786087569647,
+      "tag": "0000_small_skreet",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1786339186996,
+      "tag": "0001_famous_nemesis",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1786339253078,
+      "tag": "0002_tough_callisto",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1786340926201,
+      "tag": "0003_broken_lethal_legion",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1786342925033,
+      "tag": "0004_whole_scarlet_witch",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1786343778616,
+      "tag": "0005_silent_firelord",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1786350976954,
+      "tag": "0006_jittery_star_brand",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1786353958724,
+      "tag": "0007_petite_stryfe",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "6",
+      "when": 1786361663587,
+      "tag": "0008_shiny_toxin",
+      "breakpoints": true
+    }
+  ]
+}

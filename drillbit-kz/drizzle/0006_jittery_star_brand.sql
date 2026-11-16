@@ -1,0 +1,1 @@
+ALTER TABLE `organizations` ADD `profile_type` text DEFAULT 'BUSINESS' NOT NULL;
